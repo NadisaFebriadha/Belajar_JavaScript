@@ -1,5 +1,5 @@
 
-var nilai = 10;
+var nilai = 80;
 
 if (nilai >= 90) {
 console.log("A");
@@ -21,3 +21,11 @@ console.log("A");
 // 80 - 85 C
 // 70 - 80 D
 // < 70 E
+
+var Harga = 2000;
+
+if (Harga == 2000 || Harga == 3000) {
+    console.log ("beli 3 ikat");
+}else {
+    console.log ("beli 2 ikat");
+} console.log(Harga);
