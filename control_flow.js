@@ -1,13 +1,13 @@
 
-var Nilai = 10;
+var nilai = 10;
 
-if (Nilai >= 90) {
+if (nilai >= 90) {
 console.log("A");
-} else if (Nilai >= 85) {
+} else if (nilai >= 85) {
     console.log("B");
-} else if (Nilai >= 80) {
+} else if (nilai >= 80) {
     console.log("C");
-} else if (Nilai >= 70) {
+} else if (nilai >= 70) {
     console.log("D");
 }else {
     console.log("E");
