@@ -25,7 +25,16 @@ console.log (angka1 + angka2 + angka3);
 var nama1 = "Belajar variabel tipe string"
 var nama2 = "Belajar variabel tipe number"
 
-console.log (nama1,nama2)
+console.log (nama1);
+console.log (nama2);
+
+let umur = 20;
+let tahun = 2002;
+let berat = 41.5;
+
+console.log ()
+
+
 
 
 
