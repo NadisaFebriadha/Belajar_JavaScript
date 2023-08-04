@@ -22,7 +22,7 @@ console.log("A");
 // 70 - 80 D
 // < 70 E
 
-var Harga = 2000;
+var Harga = 1000;
 
 if (Harga == 2000 || Harga == 3000) {
     console.log ("beli 3 ikat");
