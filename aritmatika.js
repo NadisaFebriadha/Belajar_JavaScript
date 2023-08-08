@@ -60,7 +60,7 @@ var z = 2.50 + 3.20;
 console.log('nilai z adalah:', z);
 
 //modulus
-var x = 10 % 2;
+var x = -5 % 2;
 console.log("nilai x adalah:", x);
 
 var y = 6 % 2;
