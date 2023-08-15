@@ -5,7 +5,7 @@ var y = "inaya";
 console.log("x adalah",x.length);
 console.log("y adalah",y.length);
 
-//number string information
+//string formating
 var hurufBesar = "JANNAH"
 var hurufKecil = "ainun"
 

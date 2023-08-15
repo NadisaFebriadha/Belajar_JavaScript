@@ -33,12 +33,3 @@ let tahun = 2002;
 let berat = 41.5;
 
 console.log ()
-
-
-
-
-
-
-
-
-
