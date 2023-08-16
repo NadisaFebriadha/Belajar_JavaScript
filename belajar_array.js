@@ -91,3 +91,26 @@ var total_nomor = 0;
 for(i = 0; i <nomor.length; i++){
     total_nomor += nomor[i];
 };
+
+
+//mencari item didalam array
+console.log("---------")
+var x = [1,2,3,4,5]
+
+var indexOfThree = x.indexOf(3);
+var indexFromArray = x.findIndex((v) => {
+  return v == 3
+})
+
+console.log(indexOfThree)
+console.log(indexFromArray);
+
+x.splice(indexOfThree,1);
+console.log(x)
+
+//remove item dari index
+const index = x.indexOf(2);
+if (index > -1){
+    x.splice(index,1);
+}
+console.log(x)
